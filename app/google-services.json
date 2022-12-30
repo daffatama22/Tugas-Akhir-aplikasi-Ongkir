@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254787220077",
+    "project_id": "ongkir-murah",
+    "storage_bucket": "ongkir-murah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254787220077:android:0bc929ca757bca65808564",
+        "android_client_info": {
+          "package_name": "com.azhar.rajaongkir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254787220077-bk0l5m6s1j46ooj54jcjncj53o3n7s69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_WeiR4rYTHbWZjUOACZCLLQrpiIDpVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254787220077-bk0l5m6s1j46ooj54jcjncj53o3n7s69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
